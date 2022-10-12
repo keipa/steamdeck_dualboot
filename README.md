@@ -12,3 +12,5 @@ Original Creator of this Script - https://github.com/jlobue10/SteamDeck_rEFInd
 YouTube Tutorial - 
 
 Deck Wizard YouTube Channel - https://www.youtube.com/c/DeckWizard
+
+![Preview](image.png)
